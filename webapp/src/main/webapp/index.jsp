@@ -1,11 +1,11 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Register for Learning DevOps</h1>
+    <h1>Register for Learning more on DevOps</h1>
     <p>Kindly fill in this form to create an account.</p>
     <hr>
     <br>
      
-    <label for="Ful Name"><b>Enter Name</b></label>
+    <label for="Full Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     <br>
